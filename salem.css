@@ -1,0 +1,82 @@
+/* Sarah m'a aidé, on a mis une couleur grise pour le fond d'écran de bootstrap sur html*/
+.container
+{  
+    width: 100%;    
+}
+
+
+
+/* we  to write code en blanc*/
+h1
+{
+    color: white;
+}
+
+
+/* ecriture en orange*/
+h2,h3,h4,h6
+{
+    color: rgb(213, 92, 37);
+}
+
+
+/* ecriture en blanc*/
+h5
+{
+    color: white;
+}
+
+
+
+
+/* LOVE en orange*/
+span
+{
+    color:  rgb(213, 92, 37);
+}
+
+
+
+/* we love to write code et Salem sont centrés */
+article
+{
+    text-align: center;
+}
+
+
+
+
+/* aligne les 4 images */
+nav
+{
+    text-align: center;
+}
+
+
+
+.copyright
+{
+    text-align: center;
+}
+
+
+/* 2eme page   LE FOND D'ECRAN */
+.project
+{
+    background-color: rgb(155, 151, 151); width: 101%;
+}
+
+
+
+
+/* texte let's talk about your project ET case read*/
+.t1,.t2
+{
+    margin-left: 10%;
+}
+
+
+
+
+
+

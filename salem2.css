@@ -1,0 +1,50 @@
+/* Sarah m'a aidé, on a mis une couleur grise pour le fond d'écran de bootstrap sur html*/
+.container
+{  
+    width: 100%;    
+}
+
+
+
+/* texte we  to write code en blanc*/
+h1
+{
+    color: white;
+}
+
+
+/* ecriture en orange*/
+h2,h3,h4,h6
+{
+    color: rgb(213, 92, 37);
+}
+
+
+/* ecriture en blanc*/
+h5
+{
+    color: rgb(238, 234, 234);
+}
+
+
+
+/* LOVE en orange*/
+span
+{
+    color:  rgb(213, 92, 37);
+}
+
+
+
+/* we love to write code et Salem sont centrés */
+article
+{
+    text-align: center;
+}
+
+
+/* bouton contact us today*/
+button
+{
+    width: 30%; height: 15%;
+}
